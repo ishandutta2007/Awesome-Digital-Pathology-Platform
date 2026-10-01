@@ -67,7 +67,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is the curated list of open-source bioimage software, whole-slide imaging libraries, and computational pathology deep learning frameworks, **sorted descending by GitHub star count** ⭐:
+Below is the curated list of open-source bioimage software, whole-slide imaging libraries, and computational pathology deep learning frameworks, **sorted descending by GitHub Stars_Count** ⭐:
 
 1. **[MONAI](https://github.com/Project-MONAI/MONAI)** [<img src="https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white" alt="MONAI Stars"/>](https://github.com/Project-MONAI/MONAI/stargazers) 🩺  
    *PyTorch-based open-source framework for deep learning in healthcare imaging, featuring dedicated pathology models, WSI transforms, and segmentation pipelines.*
